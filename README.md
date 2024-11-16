@@ -1,3 +1,5 @@
-### Hi there, I'm Felix 👋
+### Hi there, I'm Tukanog 👋
+
+* 🌟 I am a full-stack developer specializing in Python
 * 🐍 I love develop useful chatbots with Python
-* 🎲 Also love making plugins for Minecraft Java Edition
+* 🎲 I am skilled in writing plugins for Minecraft Java Edition
